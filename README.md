@@ -37,7 +37,7 @@
 
 <div align="center">
   <b>🚀 See the AQI Monitoring App in action!</b><br><br>
-  <a href="https://drive.google.com/file/d/1TcGlE-mTFIkVqMof7igcmiMlGWg0aZl0/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1I0LJtkqNowya0EmWTckEFDuBbF12XaZM/view?usp=sharing" target="_blank">
     <img src="https://img.icons8.com/fluency/96/video-playlist.png" width="60"/>
     <br>
     <b>▶️ Watch Demo on Google Drive</b>
