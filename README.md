@@ -54,7 +54,7 @@
 
 ---
 
-## 🌈 App Preview
+##  App Preview
 
 <p align="center">
  <img width="1918" height="1078" alt="Screenshot 1" src="images/Screenshot 2026-02-13 151610.png" />
