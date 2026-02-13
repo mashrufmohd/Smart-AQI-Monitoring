@@ -1,0 +1,91 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+*.env
+credentials/
+secrets/
+config/secrets/
+
+# API Keys and Credentials
+.aws/
+.credentials
+.ssh/
+*.pem
+*.key
+*_private_key
+*_secret*
+*password*
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Data and model artifacts
+models/
+*.joblib
+*.h5
+*.xlsx
+*.pkl
+*.csv
+*.json
+data/
+raw_data/
+
+# Streamlit cache
+.streamlit/
+.streamlit/secrets.toml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+.vs/
+
+# IDE
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+logs/
+
+# Test outputs
+htmlcov/
+.coverage
+.cache/
+pytest_cache/
+.pytest_cache/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Package files
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Screenshots (optional, keep if you want to share)
+screenshots/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
